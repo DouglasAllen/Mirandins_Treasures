@@ -7,6 +7,12 @@
 
 [Why’s (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/)
 
+[Ruby Study Notes: TOC](http://rubylearning.com/satishtalim/tutorial.html)
+
+[]()
+
+[An introductory two day Ruby course source](https://github.com/peter/ruby_basic)
+
 [heroku toolbelt](https://toolbelt.heroku.com/windows)
 
 [The Rail World](http://therailworld.com/)
@@ -17,10 +23,42 @@
 
 [An Introduction to Rails: a Quick Blog Part 1](http://ruby.about.com/od/rails3tutorial/ss/An-Introduction-To-Rails-A-Quick-Blog-Part-1.htm)
 
+[Ruby Source](http://rubysource.com/)
+
 [Composition & Inheritance](http://rubysource.com/composition-inheritance/)
+
+[Ruby Weekly](http://rubyweekly.com/)
+
+[Ruby ActiveRecord and MySQL](http://rubylearning.com/satishtalim/ruby_activerecord_and_mysql.html)
 
 [Learn Ruby
 WITH THE NEO RUBY KOANS](http://rubykoans.com/)
+
+[Metaprogramming in Ruby First Step on Ruby Metaprogramming](http://ruby-metaprogramming.rubylearning.com/)
+
+[Ruby Metaprograaming Koans (Inspired by EdgeCase RubyKoans)](https://github.com/nuclearsandwich/metaprogramming_koans)
+
+[GoGaRuCo 2012 - Sugar-Free Ruby: An Experiment in Object-first Teaching by Steven! Ragnarok](http://www.youtube.com/watch?v=SNbBC2pSiVw)
+
+[The state of Test Driven Development](http://techblog.daveastels.com/2005/07/05/a-new-look-at-test-driven-development/)
+
+[TestFirst.org
+the home of test-first teaching](http://testfirst.org/)
+
+[Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
+
+
+
+[Demo application to go along with class 
+http://marakana.com/forums/ruby/ruby_on_rails/191.html](https://github.com/wolframarnold/Efficient-Test-Driven-Rails-Development)
+
+[Efficient Rails Test-Driven Development – Episode 1](http://www.rubyfocus.biz/class_video/2010/07/19/rails_tdd_class_1.html)
+
+[Distributing Ruby Applications 
+Theory and Practice of Building, Packing and Distributing Ruby Applications](http://www.erikveen.dds.nl/distributingrubyapplications/index.html)
+
+[Tar2RubyScript 
+A Tool for Distributing Ruby Applications](http://www.erikveen.dds.nl/tar2rubyscript/index.html)
 
 [Ricochet by Chrys Wu](http://www.chryswu.com/blog/2011/07/11/how-to-read-api-documentation-a-guide-for-non-coders/)
 
@@ -37,9 +75,13 @@ by Bill Venners](http://www.artima.com/intv/ruby.html)
 [Rebuilding Rails
 Understand Rails by Building a Ruby Web Framework](http://rebuilding-rails.com/)
 
+[GoRuCo 2013 - Microtalk: Nokogiri - History and Future by Mike Dalessio](http://www.youtube.com/watch?v=qkvEjZ-mGQA)
+
 [Ruby Hangout](http://www.youtube.com/watch?v=qPNPovbvdGE)
 
 [How Not to Panic - Passionate Programmer Excerpt 2013.07.23](http://chadfowler.com/)
+
+[Puppy Sound Software](http://www.puppysound.com/)
 
 [To Ruby From Python](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
 
@@ -52,6 +94,8 @@ Understand Rails by Building a Ruby Web Framework](http://rebuilding-rails.com/)
 [Is there an IDLE-like editor for ruby on Windows or Ubuntu?](http://stackoverflow.com/questions/3670684/is-there-an-idle-like-editor-for-ruby-on-windows-or-ubuntu)
 
 [MATLAB and Simulink Student Challenges](http://www.mathworks.com/academia/student-challenge/?s_v1=52285683_1-KVNNHK)
+
+[CodingBat code practice](http://codingbat.com/about.html)
 
 [Learn more advanced Git](http://www.codeschool.com/courses/git-real/)
 
@@ -71,8 +115,39 @@ Understand Rails by Building a Ruby Web Framework](http://rebuilding-rails.com/)
 
 [Offshore Ruby on Rails web shop](http://www.lunarlogic.io/)
 
+[Ruby on Rails Tutorial: Learn Web Development with Rails](http://ruby.railstutorial.org/)
+
+[Beginning Rails 3](http://beginningrails.com/)
+
+[Code School Ruby](http://www.codeschool.com/paths/ruby)
+
 [PHP vs. RUBY: What’s the Point?](http://rubysource.com/php-vs-ruby-whats-the-point/)
 
 [Rack for Middlewares](http://rubysource.com/rack-for-middlewares/)
 
+[Watir.com
+Web Application Testing in Ruby](http://watir.com/installation/)
+
+[Ruby and MongoDB Web Development Beginner's Guide](http://www.packtpub.com/support/9531)
+
 [Try VersionEye now! ](http://www.versioneye.com/)
+
+[Thinking in C](http://www.mindviewinc.com/CDs/ThinkingInC/)
+
+[Instant MinGW Starter [Instant]](http://www.packtpub.com/mingw-starter/book)
+
+[MinGW - Minimalist GNU for Windows](http://sourceforge.net/projects/mingw/files/Installer/mingw-get/)
+
+[MinGW Distro - nuwen.net](http://nuwen.net/mingw.html)
+
+[DL example for windows](https://gist.github.com/DouglasAllen/5066832)
+
+[C Programming Reference Introduction.](http://www.lix.polytechnique.fr/~liberti/public/computing/prog/c/C/c.html)
+
+[Mind View](http://www.mindviewinc.com/Index.php)
+
+[JavaScript Weekly](http://javascriptweekly.com/)
+
+[BitNami stacks](http://bitnami.com/stacks)
+
+[Wubi (Ubuntu installer)](http://en.wikipedia.org/wiki/Wubi_(Ubuntu_installer))
