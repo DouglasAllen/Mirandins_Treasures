@@ -1,4 +1,11 @@
+[*Mirandins Treasures *](https://www.facebook.com/groups/randys9group/)
+===
+
+[why the lucky stiff](http://en.wikipedia.org/wiki/Why_the_lucky_stiff#cite_note-whymirror-6)
+
 [_why's Estate](http://viewsourcecode.org/why/index.html)
+
+[Why’s (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/)
 
 [heroku toolbelt](https://toolbelt.heroku.com/windows)
 
