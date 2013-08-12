@@ -9,7 +9,7 @@
 
 [Ruby Study Notes: TOC](http://rubylearning.com/satishtalim/tutorial.html)
 
-[]()
+[An introductory two day Ruby course slides pdf](https://github.com/peter/ruby_basic/raw/master/Slides.pdf)
 
 [An introductory two day Ruby course source](https://github.com/peter/ruby_basic)
 
@@ -151,3 +151,5 @@ Web Application Testing in Ruby](http://watir.com/installation/)
 [BitNami stacks](http://bitnami.com/stacks)
 
 [Wubi (Ubuntu installer)](http://en.wikipedia.org/wiki/Wubi_(Ubuntu_installer))
+
+[I Wrote An eBook In A Week GILES BOWKETT](http://gilesbowkett.blogspot.co.uk/2012/11/i-wrote-ebook-in-week.html?utm_source=rubyweekly&utm_medium=email)
