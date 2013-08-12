@@ -41,6 +41,8 @@ Understand Rails by Building a Ruby Web Framework](http://rebuilding-rails.com/)
 
 [How Not to Panic - Passionate Programmer Excerpt 2013.07.23](http://chadfowler.com/)
 
+[To Ruby From Python](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/)
+
 [Mathematics with Python and Ruby](http://en.wikibooks.org/wiki/Mathematics_with_Python_and_Ruby)
 
 [Ruby or Python? Well, It Depends...](http://batsov.com/articles/2011/05/03/ruby-or-python/)
@@ -48,6 +50,16 @@ Understand Rails by Building a Ruby Web Framework](http://rebuilding-rails.com/)
 [Python/Ruby IDE (Windows)?](http://stackoverflow.com/questions/523825/python-ruby-ide-windows)
 
 [Is there an IDLE-like editor for ruby on Windows or Ubuntu?](http://stackoverflow.com/questions/3670684/is-there-an-idle-like-editor-for-ruby-on-windows-or-ubuntu)
+
+[MATLAB and Simulink Student Challenges](http://www.mathworks.com/academia/student-challenge/?s_v1=52285683_1-KVNNHK)
+
+[Learn more advanced Git](http://www.codeschool.com/courses/git-real/)
+
+[git(1) Manual Page](https://www.kernel.org/pub/software/scm/git/docs/)
+
+[git(1) Manual Page](http://git-htmldocs.googlecode.com/git/git.html)
+
+[Pro Git book](http://git-scm.com/book)
 
 [Starting Ruby](http://stackoverflow.com/questions/412229/starting-ruby)
 
@@ -62,3 +74,5 @@ Understand Rails by Building a Ruby Web Framework](http://rebuilding-rails.com/)
 [PHP vs. RUBY: What’s the Point?](http://rubysource.com/php-vs-ruby-whats-the-point/)
 
 [Rack for Middlewares](http://rubysource.com/rack-for-middlewares/)
+
+[Try VersionEye now! ](http://www.versioneye.com/)
