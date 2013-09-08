@@ -1,6 +1,8 @@
 [*Mirandins Treasures *](https://www.facebook.com/groups/randys9group/)
 ===
 
+[Ruby Programming Language facebook group files](https://www.facebook.com/groups/rubyprogramming/doc/331599090261247/)
+
 [why the lucky stiff](http://en.wikipedia.org/wiki/Why_the_lucky_stiff#cite_note-whymirror-6)
 
 [_why's Estate](http://viewsourcecode.org/why/index.html)
@@ -13,19 +15,11 @@
 
 [An introductory two day Ruby course source](https://github.com/peter/ruby_basic)
 
-[heroku toolbelt](https://toolbelt.heroku.com/windows)
-
-[The Rail World](http://therailworld.com/)
-
-[teemtreehouse](http://teamtreehouse.com/)
-
-[Ruby on Rails 3 Tutorials](http://ruby.about.com/od/rails3tutorial/Ruby-On-Rails-3-Tutorial.htm)
-
-[An Introduction to Rails: a Quick Blog Part 1](http://ruby.about.com/od/rails3tutorial/ss/An-Introduction-To-Rails-A-Quick-Blog-Part-1.htm)
-
-[Ruby Source](http://rubysource.com/)
+[Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
 
 [Composition & Inheritance](http://rubysource.com/composition-inheritance/)
+
+[Ruby Kick Start](http://ruby-kickstart.com/)
 
 [Ruby Weekly](http://rubyweekly.com/)
 
@@ -45,9 +39,15 @@ WITH THE NEO RUBY KOANS](http://rubykoans.com/)
 [TestFirst.org
 the home of test-first teaching](http://testfirst.org/)
 
-[Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
+[The Rail World](http://therailworld.com/)
 
+[teemtreehouse](http://teamtreehouse.com/)
 
+[Ruby on Rails 3 Tutorials](http://ruby.about.com/od/rails3tutorial/Ruby-On-Rails-3-Tutorial.htm)
+
+[An Introduction to Rails: a Quick Blog Part 1](http://ruby.about.com/od/rails3tutorial/ss/An-Introduction-To-Rails-A-Quick-Blog-Part-1.htm)
+
+[Ruby Source](http://rubysource.com/)
 
 [Demo application to go along with class 
 http://marakana.com/forums/ruby/ruby_on_rails/191.html](https://github.com/wolframarnold/Efficient-Test-Driven-Rails-Development)
@@ -74,6 +74,8 @@ by Bill Venners](http://www.artima.com/intv/ruby.html)
 
 [Rebuilding Rails
 Understand Rails by Building a Ruby Web Framework](http://rebuilding-rails.com/)
+
+[Using RDoc](http://www.mikeperham.com/2010/12/16/using-rdoc/)
 
 [GoRuCo 2013 - Microtalk: Nokogiri - History and Future by Mike Dalessio](http://www.youtube.com/watch?v=qkvEjZ-mGQA)
 
@@ -113,22 +115,21 @@ Understand Rails by Building a Ruby Web Framework](http://rebuilding-rails.com/)
 
 [Rack Developer's Notebook source](https://github.com/DouglasAllen/Rack-Developer-s-Notebook-Source-Code)
 
-[Offshore Ruby on Rails web shop](http://www.lunarlogic.io/)
-
-[Ruby on Rails Tutorial: Learn Web Development with Rails](http://ruby.railstutorial.org/)
-
-[Beginning Rails 3](http://beginningrails.com/)
-
 [Code School Ruby](http://www.codeschool.com/paths/ruby)
 
 [PHP vs. RUBY: What’s the Point?](http://rubysource.com/php-vs-ruby-whats-the-point/)
 
 [Rack for Middlewares](http://rubysource.com/rack-for-middlewares/)
 
-[Watir.com
-Web Application Testing in Ruby](http://watir.com/installation/)
-
 [Ruby and MongoDB Web Development Beginner's Guide](http://www.packtpub.com/support/9531)
+
+[heroku toolbelt](https://toolbelt.heroku.com/windows)
+
+[Offshore Ruby on Rails web shop](http://www.lunarlogic.io/)
+
+[Ruby on Rails Tutorial: Learn Web Development with Rails](http://ruby.railstutorial.org/)
+
+[Beginning Rails 3](http://beginningrails.com/)
 
 [Try VersionEye now! ](http://www.versioneye.com/)
 
@@ -149,6 +150,9 @@ Web Application Testing in Ruby](http://watir.com/installation/)
 [JavaScript Weekly](http://javascriptweekly.com/)
 
 [BitNami stacks](http://bitnami.com/stacks)
+
+[Watir.com
+Web Application Testing in Ruby](http://watir.com/installation/)
 
 [Wubi (Ubuntu installer)](http://en.wikipedia.org/wiki/Wubi_(Ubuntu_installer))
 
